@@ -60,7 +60,7 @@ function Projects() {
             <ProjectCard
               imgPath={SnakeGame}
               isBlog={false}
-              title="🎶 SnakeGame 🎶"
+              title=" SnakeGame "
               description="Welcome to the Snake Game! Get ready to slither and grow as you navigate through the maze. Can you become the longest snake without crashing into the walls or yourself? Let's find out!"
               ghLink="https://github.com/nazianah/javascript-snake-game"
               demoLink="https://javascript-snake-game-ten.vercel.app/"
@@ -71,7 +71,7 @@ function Projects() {
             <ProjectCard
               imgPath={Hangman}
               isBlog={false}
-              title="🍿 Hangman 🎬"
+              title=" Hangman "
               description="
               Welcome to Hangman! Can you guess the word before it's too late? Let the challenge begin!"
               ghLink="https://github.com/nazianah/javascript-hangman-game"
@@ -95,7 +95,7 @@ function Projects() {
             <ProjectCard
               imgPath={QRGenerator}
               isBlog={false}
-              title="🚀 QRGenerator💡"
+              title=" QRGenerator💡"
               description="Welcome to the QR Generator! Easily create custom QR codes for your websites, products, or any other content. Simply input your desired information, and generate your unique QR code instantly. Streamline your digital interactions with ease!"
               ghLink="https://github.com/nazianah/qrcodegenerator"
               demoLink="https://qrcodegenerator-pearl.vercel.app/" 
