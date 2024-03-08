@@ -29,7 +29,7 @@ function Projects() {
               title="🚀 PortFolio💡"
               description="Greetings! I'm Jhakri Nazianah , a passionate Web Developer dedicated to bringing ideas to life through the digital canvas. This portfolio is a glimpse into my journey of creativity, innovation, and relentless pursuit of excellence."
               ghLink="https://github.com/nazianah/Portfolio"
-              demoLink="https://portfolio-vert-kappa-18.vercel.app/" 
+              demoLink="https://portfolio-opal-six-67.vercel.app/" 
             />
           </Col>
           <Col md={4} className="project-card">
