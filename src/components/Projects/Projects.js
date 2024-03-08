@@ -60,7 +60,7 @@ function Projects() {
             <ProjectCard
               imgPath={SnakeGame}
               isBlog={false}
-              title=" SnakeGame "
+              title=" 🐍 SnakeGame  🐍 "
               description="Welcome to the Snake Game! Get ready to slither and grow as you navigate through the maze. Can you become the longest snake without crashing into the walls or yourself? Let's find out!"
               ghLink="https://github.com/nazianah/javascript-snake-game"
               demoLink="https://javascript-snake-game-ten.vercel.app/"
