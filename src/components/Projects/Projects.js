@@ -36,8 +36,8 @@ function Projects() {
             <ProjectCard
               imgPath={TastyTerra}
               isBlog={false}
-              title="📷 SnapShot 🌐"
-              description="Step into a world where images speak louder than words. TastyTerra is your gateway to a vast visual universe, where you can search, find, and capture the essence of any moment. Empower your imagination and embark on a journey of visual discovery."
+              title="🍔 Tasty Terra Pizza 🍕"
+              description="Welcome to Tasty Terra Pizza! Explore our delicious handcrafted pizzas made with the freshest ingredients. From classics to specialties, we've got your cravings covered. Order online today and taste the difference! 🍕"
               ghLink="https://github.com/nazianah/TastyTerra-Pizza"
               demoLink="https://tasty-terra-pizza.vercel.app/home"
             />
@@ -61,7 +61,7 @@ function Projects() {
               imgPath={SnakeGame}
               isBlog={false}
               title="🎶 SnakeGame 🎶"
-              description="Dive into a world of seamless tunes and musical wonders with SnakeGame. We are not just a music streaming platform; we are your gateway to a symphony of emotions, a playlist of memories, and a soundtrack to your life."
+              description="Welcome to the Snake Game! Get ready to slither and grow as you navigate through the maze. Can you become the longest snake without crashing into the walls or yourself? Let's find out!"
               ghLink="https://github.com/nazianah/javascript-snake-game"
               demoLink="https://javascript-snake-game-ten.vercel.app/"
             />
@@ -72,7 +72,8 @@ function Projects() {
               imgPath={Hangman}
               isBlog={false}
               title="🍿 Hangman 🎬"
-              description="Dive into the world of entertainment like never before with Hangman - your ultimate destination for movies and series. We've curated a hive of cinematic wonders, ready for you to explore, discover, and enjoy."
+              description="
+              Welcome to Hangman! Can you guess the word before it's too late? Let the challenge begin!"
               ghLink="https://github.com/nazianah/javascript-hangman-game"
               demoLink="https://javascript-hangman-game.vercel.app/"              
             />
@@ -95,7 +96,7 @@ function Projects() {
               imgPath={QRGenerator}
               isBlog={false}
               title="🚀 QRGenerator💡"
-              description="Greetings! I'm Jhakri Nazianah , a passionate Web Developer dedicated to bringing ideas to life through the digital canvas. This portfolio is a glimpse into my journey of creativity, innovation, and relentless pursuit of excellence."
+              description="Welcome to the QR Generator! Easily create custom QR codes for your websites, products, or any other content. Simply input your desired information, and generate your unique QR code instantly. Streamline your digital interactions with ease!"
               ghLink="https://github.com/nazianah/qrcodegenerator"
               demoLink="https://qrcodegenerator-pearl.vercel.app/" 
             />
