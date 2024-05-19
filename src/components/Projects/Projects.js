@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import TastyTerra from "../../Assets/Projects/TastyTerra.png";
-import Portfolio from "../../Assets/Projects/Portfolio.png";
+import Portfolio from "../../Assets/Projects/Portfolio.jpeg";
 import Hangman from "../../Assets/Projects/Hangman.png";
 import SnakeGame from "../../Assets/Projects/SnakeGame.png";
 import CottonCandy from "../../Assets/Projects/CottonCandy.png";
